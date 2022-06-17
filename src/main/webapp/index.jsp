@@ -6,7 +6,7 @@
 <body>
 <h2>Hello World! Devops training+Welcome Devops+AWS training </h2>
 
-   <body style="background-color:blue;">
+   <body style="background-color:red;">
       <h1>Products</h1>
       <p>We have developed more than 10 products till now.</p>
    </body>
