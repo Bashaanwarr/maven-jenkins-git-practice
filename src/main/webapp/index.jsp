@@ -4,7 +4,7 @@
       <title>HTML Backgorund Color</title>
    </head>
 <body>
-<h2>Hello World! Devops training Devops+AWS training </h2>
+<h2>Hello World! Devops training+Welcome Devops+AWS training </h2>
 
    <body style="background-color:blue;">
       <h1>Products</h1>
